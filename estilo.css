@@ -1,0 +1,138 @@
+body{
+  margin-left: 200px;
+  margin-right: 200px;
+  background-image: url("imgs/sakuraimg.jpg");
+  background-position: repeat;
+  background-size: cover;
+}
+
+header {
+    background-color: #ffffff88;
+    font-size: 180%;
+    padding-top: 4px;
+    padding-left: 0px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+h1 {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  color: DarkCyan;
+  padding-left: 34px;
+}
+
+p {
+  margin: 0px;
+}
+
+header ul {
+  padding-left: 0;
+  padding-top: 0;
+  margin-bottom: 0;
+  background-color: rgba(255,255,255, 0.7);
+}
+
+header li {
+  list-style: none;
+  display: inline-block;
+  border-bottom: 3px solid transparent;
+  margin: 0 1em;
+}
+
+#creditos {
+    background-color: rgba(255,255,255, 0.7);
+    float: right;
+    margin-top: 5%;
+    padding: 0.6%;
+    font-family: "Lobster", cursive;
+    font-size: 300%;
+    border: solid black 2px;
+    width: 25%;
+}
+
+.box{
+  background-color: rgba(255,255,255, 0.7);
+  border: solid black 2px;
+  padding: 15px;
+}
+
+.nome{
+  font-size: 20px;
+  text-align: center;
+}
+
+.tituloprincipal{
+  font-size: 45px
+}
+
+.bordinha{
+border-sl
+}
+
+.h1ma{
+  font-size: 35px;
+  text-align: center;
+}
+
+.titulinhos{
+  font-size: 25px;
+  text-align: center;
+}
+
+.imgs{
+  max-width:200px;
+  max-height:150px;
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 50%;
+  border: solid 1px black;
+}
+
+.h5{
+  font-size: 20px;
+}
+
+p, li{
+  font-style: "Times New Roman";
+  font-size: 18px;
+  text-align: justify;
+}
+
+.fotos{
+  max-width:200px;
+  max-height:150px;
+  width: auto;
+  height: auto;
+  border-radius: 100px;
+  border: 2px solid black;
+  display: block;
+  margin: auto;
+}
+
+.creditos{
+  color: #008B8B;
+  text-align: center;
+  font-size: 35px;
+}
+
+a :hover{
+  color:#6B8E23;
+
+}
+
+a :active{
+  color:darkred;
+}
+
+.home{
+  float: left;
+  width: 50%;
+  margin-top: 50px;
+}
+.home p,h2{
+  padding: 10px;
+}
